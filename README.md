@@ -1,2 +1,2 @@
-# POS-Starem
+# POS-System
 Small school project made with python. 
